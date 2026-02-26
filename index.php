@@ -1,5 +1,6 @@
 <?php
-echo 'Coba masukan kodingan dan commit';
-echo 'Saya coba mengubah file index.php dan file core.php';
-echo 'Saya coba mengubah file index.php dan file core.php lagi....';
+echo "Coba masukan kodingan dan commit\r\n";
+echo "Saya coba mengubah file index.php dan file core.php\r\n";
+echo "Saya coba mengubah file index.php dan file core.php lagi....\r\n";
+echo "Saya coba mengubah file index.php lagi hahahahah\r\n";
 ?>
